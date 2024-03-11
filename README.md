@@ -3,9 +3,9 @@
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loveenaramchandani/) &nbsp;
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:loveenaramchandani53@gmail.com?subject=Hello%20Loveena,%20From%20Github)
   
-  Hi there! 👋 I'm <b>Loveena Ramchandani </b>
-  
-  Passionate about coding, creativity, and turning ideas into code. Welcome to my little corner of the GitHub universe! 🚀
+  Hey there! 👋 Welcome to my digital abode! I'm <b>Loveena Ramchandani</b>, where code meets creativity and dreams turn into pixels.
+
+  🚀 Step into the realm of possibilities! Explore my [personal universe](https://loveena-portfolio.vercel.app/) where pixels dance and dreams come to life!
 </div>
 
 
